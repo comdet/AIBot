@@ -9,7 +9,7 @@
         xmlns:ports="clr-namespace:System.IO.Ports;assembly=System"
         xmlns:local="clr-namespace:AIBot"
         mc:Ignorable="d"
-        Title="Hexapod Controller V0.1 By Comdet" Height="503.219" Width="811.91">
+        Title="Hexapod Controller V0.1 By Comdet" Height="503.219" Width="811.91" ResizeMode="NoResize">
     <Window.DataContext>
         <local:MainViewModel/>        
     </Window.DataContext>
